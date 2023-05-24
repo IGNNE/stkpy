@@ -1,6 +1,6 @@
 # Small sendtokodi Python CLI tool
 
-This is a minimalistic little python script to send stuff to the great [sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi). To use it, create a file called `.stkpy` either in this directory, your home dir, `~/.config/` or even in `%LOCALAPPDATA/stkpy/` like this:
+This is a minimalistic little python script to send stuff to the great [sendtokodi](https://github.com/firsttris/plugin.video.sendtokodi). To use it, make sure you have the requests lib installed (`pip3 install requests`) create a file called `.stkpy` either in this directory, your home dir, `~/.config/` or even in `%LOCALAPPDATA/stkpy/` like this:
 
 ```
 # example conf
